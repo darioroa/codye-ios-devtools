@@ -4,7 +4,7 @@
 
 Codye is a code presentation tool, to make your snippets look impressive in images, presentations, websites and more.
 
-![img/main-screenshot.png]
+<img width="1408" alt="main-screenshot" src="https://github.com/darioroa/codye-ios-devtools/assets/26660989/562bf7c8-f2f8-4c7e-b3e3-a920796dcc41">
 
 # What is Codye?
 Codye is a macOS developer tool for exporting your code to different presentation formats.
@@ -18,7 +18,9 @@ Codye allows you to enter and edit a snippet of code, controlling lots of aspect
 Codye then offers a variety of export formats: 
 - PNG & JPG: Best for presentations and social media
 - RTF: Best for presentations. This is ideal to create animated transitions in Keynote.
- ![[img/rtf-animation.gif]]
+
+![rtf-animation](https://github.com/darioroa/codye-ios-devtools/assets/26660989/a0752f31-abfc-49c2-a28c-aa9b96ff9841)
+
 
 Codye also offers the ability to automate creation of screenshots via Shortcuts. This makes it compatible as a system action, via the command line or even based on other triggers.
 
@@ -30,12 +32,14 @@ Codye has 180 languages and 100 built-in themes as well as 12 fonts, making it e
 
 Since Codye is a native macOS app it also has the option to use custom fonts.
 
-![[options.png]]
+![options](https://github.com/darioroa/codye-ios-devtools/assets/26660989/877c585f-a2df-417a-a7b6-3a9a9a591171)
+
 
 ## 2. Theme customisation
 The app allows you to customise any of the built-in themes, to create new code themes.
 
-![[img/theme-editor.png]]
+<img width="1062" alt="theme-editor" src="https://github.com/darioroa/codye-ios-devtools/assets/26660989/dfae6cc6-240b-4c56-aa73-73f104febc8f">
+
 
 ## 3. Automation
 
@@ -43,8 +47,7 @@ Thanks to its Shortcuts integration, Codye can be automated in a variety of ways
 
 Here's an example where you can quickly save a snippet from your currently selected text in any other application, by way of a keyboard shortcut:
 
-![[img/automation-demo.gif]]
-
+![automation-demo](https://github.com/darioroa/codye-ios-devtools/assets/26660989/7f777564-8465-47e4-8559-b84162c37536)
 
 
 # Codye Cons
@@ -58,7 +61,9 @@ Codye is best for 1-200 line code snippets, but its editor is quite limited when
 # How much does Codye cost?
 Codye has a one-time purchase of $18.99 (and equivalent in other currencies). 
 
-![[img/paywall.png]]
+<img width="892" alt="paywall" src="https://github.com/darioroa/codye-ios-devtools/assets/26660989/7adeec35-cf22-4a55-8c43-a994f6ad9764">
+
+
 # Competitors
 Codye's competitors and similar apps are:
 - [Snippet](https://apps.apple.com/us/app/snippet-code-sharing/id1613020051), another native macOS tool by Seb Vidal
