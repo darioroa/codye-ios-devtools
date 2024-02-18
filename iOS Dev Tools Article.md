@@ -4,7 +4,7 @@
 
 Codye is a code presentation tool, to make your snippets look impressive in images, presentations, websites and more.
 
-![[img/main-screenshot.png]]
+![img/main-screenshot.png]
 
 # What is Codye?
 Codye is a macOS developer tool for exporting your code to different presentation formats.
